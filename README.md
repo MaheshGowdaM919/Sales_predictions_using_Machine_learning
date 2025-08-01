@@ -6,7 +6,6 @@ This repository contains a Jupyter Notebook that explores the fundamentals of li
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Key Concepts Covered](#key-concepts-covered)
 - [Dataset](#dataset)
 - [Model Interpretation](#model-interpretation)
 - [Feature Engineering](#feature-engineering)
